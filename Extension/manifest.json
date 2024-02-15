@@ -1,0 +1,11 @@
+{
+  "name": "Upcoming Concerts in Coral Springs",
+  "version": "1.0",
+  "description": "An extension to look up concerts coming to Coral Springs",
+  "manifest_version": 3,
+  "author": "Alejandro Cazorla",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Upcoming Concerts in Coral Springs"
+  }
+}
