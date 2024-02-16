@@ -1,1 +1,1 @@
-Test for Chrome
+Test for Chrome Extensions
