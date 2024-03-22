@@ -1,1 +1,1 @@
-Test for Chrome Extensions
+Test for Chrome Extensions using RapidAPI
